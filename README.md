@@ -1,2 +1,2 @@
 # DSA-CP
-This repo contains all the codes, notes, prolems solutions realted to Data Atructures And Algorithms.
+This repo contains all the codes, notes, prolems solutions etc. related to Data Atructures And Algorithms.
