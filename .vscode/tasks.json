@@ -1,9 +1,3 @@
-# DSA-CP
-This repo contains all the codes, notes, prolems solutions etc. related to Data structures And Algorithms.
-
-# task.json
-make a .vscode folder in root directory and then create a tasks.json file. Paste followinf inside it. to run a program press ctrl+shift+B.
-
 {
     "version": "2.0.0",
     "tasks": [
